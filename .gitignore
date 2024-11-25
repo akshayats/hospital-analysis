@@ -1,2 +1,5 @@
 *.ipynb*
 *.csv
+
+# data files
+TimeStrings_20k.pickle
